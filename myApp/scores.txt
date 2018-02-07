@@ -1,0 +1,8 @@
+nickname | time | attempts
+kwert	|	4	|	1
+xD	|	10	|	1
+ahhh	|	7	|	2
+ad3	|	5	|	2
+ehhh	|	5	|	1
+dziala	|	4	|	1
+za2	|	6	|	2
